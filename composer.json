@@ -1,5 +1,5 @@
 {
-    "name": "jfoster75/Helloworld",
+    "name": "jfoster75/module-helloworld",
     "description": "Test module for Magento 2",
     "type": "magento2-module",
     "extra": {
